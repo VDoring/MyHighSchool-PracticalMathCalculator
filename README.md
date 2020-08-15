@@ -1,2 +1,1 @@
-# MyHighSchool-PracticalMathCalculator
-PMath Lv3
+# Practical Math Calculator
